@@ -1,0 +1,17 @@
+.video {
+  width: 100%;
+}
+
+.video-wrapper {
+  position: relative;
+}
+
+.video-wrapper:before {
+  content: " ";
+  position: absolute;
+  background: url(https://1.bp.blogspot.com/-65J6N7YmHJ4/X848igNXI7I/AAAAAAAACac/RzbUEcAAPVAsdq5kwiZuS-egDykLqvBTACPcBGAYYCw/s300/20201207_112948_0000.png);
+  width: 44px;
+  height: 65px;
+  right: 20px;
+  bottom: 20px;
+}
